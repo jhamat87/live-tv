@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="channel24",channel24
+https://tapmadlive.akamaized.net/tapmadold/channel24.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="discoverpakistan",discoverpakistan
+https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
+#EXTINF:-1 tvg-id="boll",boll
+https://tapmadlive.akamaized.net/tapmadold/bolent.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="play",play
+https://tapmadlive.akamaized.net/tapmadold/playmax.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="mehran",mehran
+https://tapmadlive.akamaized.net/tapmadold/mehran.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="atv",atv
+https://tapmadlive.akamaized.net/tapmadold/atv.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="filmworld",filmworld
+https://tapmadlive.akamaized.net/tapmadold/filmworld.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="jaggtv",jaggtv
+https://tapmadlive.akamaized.net/tapmadold/jaagtv.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="neo",neo
+https://tapmadlive.akamaized.net/tapmadold/neo.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="khyber",khyber
+https://tapmadlive.akamaized.net/tapmadold/khyber.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="k21",k21
+https://tapmadlive.akamaized.net/tapmadold/k21.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="metro",mtro
+https://tapmadlive.akamaized.net/tapmadold/metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="dharity",dharity
+https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="92news",92news
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="saama",saama
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="khonoor",khonoor
+https://tapmadlive.akamaized.net/tapmadold/kohenoor.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="seetv",seetv
+https://tapmadlive.akamaized.net/tapmadold/seetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="k2",k2
+https://tapmadlive.akamaized.net/tapmadold/k2.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="city42",city42
+https://tapmadlive.akamaized.net/tapmadold/city42.smil/playlist.m3u8
+

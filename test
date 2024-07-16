@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="channel 24"
+https://tapmadlive.akamaized.net/tapmadold/channel24.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="discover pakistan"
+https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
